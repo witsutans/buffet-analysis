@@ -1,0 +1,380 @@
+service_no.,pax,queue_start,queue_end,table_no.,meal_start,meal_end,Guest_type,date,day_name,is_weekend,price,is_shared_table,is_walkaway,is_queued,wait_min,meal_min,zone
+1,1.0,,,6,2026-03-25 06:42:00,2026-03-25 07:00:00,In-house,2026-03-13,Friday,False,159,False,False,False,,18.0,Indoor
+2,2.0,,,2,2026-03-25 06:44:00,2026-03-25 07:10:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,26.0,Indoor
+3,2.0,,,7A,2026-03-25 07:05:00,2026-03-25 08:08:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,63.0,Outdoor
+4,1.0,,,8A,2026-03-25 07:20:00,2026-03-25 08:18:00,In-house,2026-03-13,Friday,False,159,False,False,False,,58.0,Outdoor
+5,1.0,,,10A,2026-03-25 07:25:00,2026-03-25 07:45:00,In-house,2026-03-13,Friday,False,159,False,False,False,,20.0,Outdoor
+6,1.0,,,8B,2026-03-25 07:28:00,2026-03-25 08:20:00,In-house,2026-03-13,Friday,False,159,False,False,False,,52.0,Outdoor
+7,1.0,,,9,2026-03-25 07:33:00,2026-03-25 08:05:00,In-house,2026-03-13,Friday,False,159,False,False,False,,32.0,Outdoor
+8,5.0,,,4,2026-03-25 07:42:00,2026-03-25 08:40:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,58.0,Indoor
+9,4.0,,,11,2026-03-25 07:48:00,2026-03-25 08:21:00,In-house,2026-03-13,Friday,False,159,False,False,False,,33.0,Outdoor
+10,2.0,,,16,2026-03-25 07:48:00,2026-03-25 08:35:00,In-house,2026-03-13,Friday,False,159,False,False,False,,47.0,No Table
+11,2.0,,,6,2026-03-25 07:50:00,2026-03-25 08:48:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,58.0,Indoor
+12,1.0,,,7B,2026-03-25 07:56:00,2026-03-25 08:15:00,In-house,2026-03-13,Friday,False,159,False,False,False,,19.0,Outdoor
+13,1.0,,,10A,2026-03-25 07:59:00,2026-03-25 08:35:00,In-house,2026-03-13,Friday,False,159,False,False,False,,36.0,Outdoor
+14,1.0,,,1,2026-03-25 08:00:00,2026-03-25 09:19:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,79.0,Indoor
+15,1.0,,,8C,2026-03-25 08:03:00,2026-03-25 08:27:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,24.0,Outdoor
+16,2.0,,,12,2026-03-25 08:05:00,2026-03-25 08:25:00,In-house,2026-03-13,Friday,False,159,False,False,False,,20.0,Outdoor
+17,1.0,,,14,2026-03-25 08:14:00,2026-03-25 09:03:00,In-house,2026-03-13,Friday,False,159,False,False,False,,49.0,Outdoor
+18,2.0,,,7A,2026-03-25 08:15:00,2026-03-25 09:30:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,75.0,Outdoor
+19,1.0,,,15A,2026-03-25 08:16:00,2026-03-25 09:05:00,In-house,2026-03-13,Friday,False,159,False,False,False,,49.0,Outdoor
+20,1.0,,,10B,2026-03-25 08:19:00,2026-03-25 08:35:00,In-house,2026-03-13,Friday,False,159,False,False,False,,16.0,Outdoor
+21,4.0,,,3,2026-03-25 08:24:00,2026-03-25 10:46:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,142.0,Indoor
+22,2.0,,,5,2026-03-25 08:25:00,2026-03-25 09:22:00,In-house,2026-03-13,Friday,False,159,False,False,False,,57.0,Indoor
+23,2.0,,,2,2026-03-25 08:25:00,2026-03-25 10:12:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,107.0,Indoor
+24,1.0,,,8A,2026-03-25 08:33:00,2026-03-25 09:30:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,57.0,Outdoor
+25,1.0,,,11A,2026-03-25 08:41:00,2026-03-25 09:25:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,44.0,Outdoor
+26,1.0,,,16,2026-03-25 08:43:00,2026-03-25 09:35:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,52.0,No Table
+27,1.0,,,12,2026-03-25 08:47:00,2026-03-25 09:18:00,In-house,2026-03-13,Friday,False,159,False,False,False,,31.0,Outdoor
+28,2.0,,,10A,2026-03-25 08:53:00,2026-03-25 09:28:00,In-house,2026-03-13,Friday,False,159,False,False,False,,35.0,Outdoor
+29,1.0,,,7B,2026-03-25 08:53:00,2026-03-25 09:13:00,In-house,2026-03-13,Friday,False,159,False,False,False,,20.0,Outdoor
+30,3.0,,,6,2026-03-25 09:00:00,2026-03-25 09:33:00,In-house,2026-03-13,Friday,False,159,False,False,False,,33.0,Indoor
+31,2.0,,,4,2026-03-25 09:05:00,2026-03-25 10:00:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,55.0,Indoor
+32,2.0,,,8B,2026-03-25 09:05:00,2026-03-25 09:39:00,In-house,2026-03-13,Friday,False,159,False,False,False,,34.0,Outdoor
+33,2.0,,,15A,2026-03-25 09:07:00,2026-03-25 10:07:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,60.0,Outdoor
+34,2.0,,,8A,2026-03-25 09:08:00,2026-03-25 10:09:00,In-house,2026-03-13,Friday,False,159,False,False,False,,61.0,Outdoor
+35,2.0,,,8,2026-03-25 09:16:00,2026-03-25 10:06:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,50.0,Outdoor
+36,1.0,,,12,2026-03-25 09:23:00,2026-03-25 09:57:00,In-house,2026-03-13,Friday,False,159,False,False,False,,34.0,Outdoor
+37,1.0,,,7C,2026-03-25 08:28:00,2026-03-25 09:30:00,In-house,2026-03-13,Friday,False,159,False,False,False,,62.0,Outdoor
+38,1.0,,,11A,2026-03-25 09:30:00,2026-03-25 10:05:00,In-house,2026-03-13,Friday,False,159,False,False,False,,35.0,Outdoor
+39,3.0,,,1,2026-03-25 09:36:00,2026-03-25 10:50:00,In-house,2026-03-13,Friday,False,159,False,False,False,,74.0,Indoor
+40,2.0,,,5,2026-03-25 09:34:00,2026-03-25 10:40:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,66.0,Indoor
+41,2.0,,,6,2026-03-25 09:42:00,2026-03-25 10:30:00,In-house,2026-03-13,Friday,False,159,False,False,False,,48.0,Indoor
+42,1.0,,,7A,2026-03-25 09:53:00,2026-03-25 11:00:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,67.0,Outdoor
+43,2.0,,,16,2026-03-25 09:55:00,2026-03-25 10:34:00,In-house,2026-03-13,Friday,False,159,False,False,False,,39.0,No Table
+44,2.0,,,7B,2026-03-25 10:03:00,2026-03-25 10:35:00,In-house,2026-03-13,Friday,False,159,False,False,False,,32.0,Outdoor
+45,2.0,,,12,2026-03-25 10:05:00,2026-03-25 11:06:00,In-house,2026-03-13,Friday,False,159,False,False,False,,61.0,Outdoor
+46,2.0,,,10A,2026-03-25 10:08:00,2026-03-25 10:50:00,In-house,2026-03-13,Friday,False,159,False,False,False,,42.0,Outdoor
+47,2.0,,,8B,2026-03-25 10:10:00,2026-03-25 11:10:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,60.0,Outdoor
+48,2.0,,,4,2026-03-25 10:20:00,2026-03-25 10:57:00,In-house,2026-03-13,Friday,False,159,False,False,False,,37.0,Indoor
+49,2.0,,,2,2026-03-25 10:32:00,2026-03-25 11:00:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,28.0,Indoor
+50,2.0,,,6,2026-03-25 10:35:00,2026-03-25 11:20:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,45.0,Indoor
+51,2.0,,,5,2026-03-25 10:45:00,2026-03-25 11:27:00,In-house,2026-03-13,Friday,False,159,False,False,False,,42.0,Indoor
+52,2.0,,,9,2026-03-25 10:53:00,2026-03-25 11:57:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,64.0,Outdoor
+53,2.0,,,1,2026-03-25 10:58:00,2026-03-25 11:57:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,59.0,Indoor
+54,2.0,,,4,2026-03-25 11:00:00,2026-03-25 12:03:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,63.0,Indoor
+55,2.0,,,16,2026-03-25 11:00:00,2026-03-25 11:45:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,45.0,No Table
+56,2.0,,,3,2026-03-25 11:15:00,2026-03-25 11:43:00,In-house,2026-03-13,Friday,False,159,False,False,False,,28.0,Indoor
+57,2.0,,,2,2026-03-25 11:16:00,2026-03-25 12:00:00,Walk-in,2026-03-13,Friday,False,159,False,False,False,,44.0,Indoor
+1,1.0,,,5B,2026-03-25 06:29:00,2026-03-25 10:14:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,225.0,Indoor
+2,2.0,,,7A,2026-03-25 06:32:00,2026-03-25 08:02:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,90.0,Outdoor
+3,1.0,,,1A,2026-03-25 06:33:00,2026-03-25 07:47:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,74.0,Indoor
+4,4.0,,,4B,2026-03-25 06:33:00,2026-03-25 08:09:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,96.0,Indoor
+5,2.0,,,16,2026-03-25 06:36:00,2026-03-25 07:45:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,69.0,No Table
+6,1.0,,,3,2026-03-25 06:44:00,2026-03-25 07:16:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,32.0,Indoor
+7,1.0,,,6,2026-03-25 06:44:00,2026-03-25 08:27:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,103.0,Indoor
+8,1.0,,,11,2026-03-25 06:44:00,2026-03-25 07:48:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,64.0,Outdoor
+9,2.0,,,4A,2026-03-25 06:48:00,2026-03-25 07:50:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,62.0,Indoor
+10,1.0,2026-03-25 07:07:00,2026-03-25 07:15:00,3B,2026-03-25 07:17:00,2026-03-25 09:26:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,8.0,129.0,Indoor
+11,1.0,,,11,2026-03-25 07:08:00,2026-03-25 07:50:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,42.0,Outdoor
+12,2.0,,,8B,2026-03-25 07:15:00,2026-03-25 08:27:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,72.0,Outdoor
+13,2.0,,,8C,2026-03-25 07:25:00,2026-03-25 08:27:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,62.0,Outdoor
+14,1.0,,,8A,2026-03-25 07:26:00,2026-03-25 08:36:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,70.0,Outdoor
+15,2.0,,,7B,2026-03-25 07:28:00,2026-03-25 08:19:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,51.0,Outdoor
+16,4.0,,,15,2026-03-25 07:29:00,2026-03-25 08:38:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,69.0,Outdoor
+17,2.0,,,9A,2026-03-25 07:35:00,2026-03-25 08:07:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,32.0,Outdoor
+18,2.0,,,14,2026-03-25 07:38:00,2026-03-25 08:30:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,52.0,Outdoor
+19,2.0,,,12,2026-03-25 07:40:00,2026-03-25 09:31:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,111.0,Outdoor
+20,1.0,,,7C,2026-03-25 07:47:00,2026-03-25 08:13:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,26.0,Outdoor
+21,2.0,,,16,2026-03-25 07:49:00,2026-03-25 08:12:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,23.0,No Table
+22,3.0,,,11,2026-03-25 07:51:00,2026-03-25 10:15:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,144.0,Outdoor
+23,1.0,,,1A,2026-03-25 07:55:00,2026-03-25 08:19:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,24.0,Indoor
+24,2.0,,,10B,2026-03-25 07:57:00,2026-03-25 08:25:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,28.0,Outdoor
+25,2.0,,,9B,2026-03-25 08:02:00,2026-03-25 08:36:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,34.0,Outdoor
+26,4.0,,,2,2026-03-25 08:05:00,2026-03-25 09:21:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,76.0,Indoor
+27,2.0,,,4A,2026-03-25 08:06:00,2026-03-25 08:28:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,22.0,Indoor
+28,1.0,,,1B,2026-03-25 08:12:00,2026-03-25 08:48:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,36.0,Indoor
+29,4.0,,,4B,2026-03-25 08:13:00,2026-03-25 08:50:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,37.0,Indoor
+30,2.0,,,7A,2026-03-25 08:14:00,2026-03-25 09:46:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,92.0,Outdoor
+31,1.0,,,1A,2026-03-25 08:20:00,2026-03-25 09:41:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,81.0,Indoor
+32,2.0,,,16,2026-03-25 08:17:00,2026-03-25 09:30:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,73.0,No Table
+33,4.0,,,6,2026-03-25 08:29:00,2026-03-25 09:46:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,77.0,Indoor
+34,2.0,,,7C,2026-03-25 08:20:00,2026-03-25 10:00:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,100.0,Outdoor
+35,1.0,,,7B,2026-03-25 08:23:00,2026-03-25 08:48:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,25.0,Outdoor
+36,2.0,,,9A,2026-03-25 08:23:00,2026-03-25 09:12:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,49.0,Outdoor
+37,2.0,2026-03-25 08:25:00,2026-03-25 08:48:00,1B,2026-03-25 08:48:00,2026-03-25 10:05:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,23.0,77.0,Indoor
+38,2.0,,,8B,2026-03-25 08:29:00,2026-03-25 10:21:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,112.0,Outdoor
+39,1.0,,,10B,2026-03-25 08:34:00,2026-03-25 10:49:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,135.0,Outdoor
+40,5.0,,,13,2026-03-25 08:43:00,2026-03-25 09:50:00,In-house,2026-03-14,Saturday,True,199,True,False,False,,67.0,Outdoor
+40,5.0,,,14,2026-03-25 08:43:00,2026-03-25 09:50:00,In-house,2026-03-14,Saturday,True,199,True,False,False,,67.0,Outdoor
+41,1.0,,,10A,2026-03-25 08:46:00,2026-03-25 09:24:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,38.0,Outdoor
+42,2.0,,,9B,2026-03-25 08:50:00,2026-03-25 09:17:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,27.0,Outdoor
+43,4.0,,,15,2026-03-25 08:51:00,2026-03-25 09:41:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,50.0,Outdoor
+44,2.0,,,3B,2026-03-25 08:52:00,2026-03-25 09:25:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,33.0,Indoor
+45,1.0,,,8C,2026-03-25 08:54:00,2026-03-25 09:30:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,36.0,Outdoor
+46,2.0,,,7B,2026-03-25 08:55:00,2026-03-25 09:35:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,40.0,Outdoor
+47,1.0,2026-03-25 08:56:00,2026-03-25 09:00:00,8A,2026-03-25 09:00:00,2026-03-25 10:09:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,4.0,69.0,Outdoor
+48,1.0,2026-03-25 08:56:00,2026-03-25 09:12:00,9A,2026-03-25 09:12:00,2026-03-25 11:00:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,16.0,108.0,Outdoor
+49,3.0,2026-03-25 09:08:00,2026-03-25 09:23:00,1B,2026-03-25 09:23:00,2026-03-25 10:08:00,Walk-in,2026-03-14,Saturday,True,199,True,False,True,15.0,45.0,Indoor
+49,3.0,2026-03-25 09:08:00,2026-03-25 09:23:00,2A,2026-03-25 09:23:00,2026-03-25 10:08:00,Walk-in,2026-03-14,Saturday,True,199,True,False,True,15.0,45.0,Indoor
+50,1.0,2026-03-25 09:09:00,2026-03-25 09:24:00,10A,2026-03-25 09:24:00,2026-03-25 09:45:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,15.0,21.0,Outdoor
+51,2.0,2026-03-25 09:10:00,2026-03-25 09:20:00,99,2026-03-25 09:20:00,2026-03-25 09:44:00,In-house,2026-03-14,Saturday,True,199,False,False,True,10.0,24.0,Queue Area
+52,2.0,2026-03-25 09:10:00,2026-03-25 09:25:00,3B,2026-03-25 09:25:00,2026-03-25 09:52:00,In-house,2026-03-14,Saturday,True,199,False,False,True,15.0,27.0,Indoor
+53,2.0,2026-03-25 09:11:00,2026-03-25 09:43:00,15,2026-03-25 09:43:00,2026-03-25 10:18:00,In-house,2026-03-14,Saturday,True,199,False,False,True,32.0,35.0,Outdoor
+54,2.0,2026-03-25 09:14:00,2026-03-25 09:30:00,4A,2026-03-25 09:30:00,2026-03-25 09:52:00,In-house,2026-03-14,Saturday,True,199,False,False,True,16.0,22.0,Indoor
+55,1.0,2026-03-25 09:15:00,2026-03-25 09:36:00,9B,2026-03-25 09:36:00,2026-03-25 11:48:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,21.0,132.0,Outdoor
+56,2.0,2026-03-25 09:15:00,2026-03-25 09:38:00,13,2026-03-25 09:38:00,2026-03-25 10:21:00,In-house,2026-03-14,Saturday,True,199,False,False,True,23.0,43.0,Outdoor
+57,2.0,2026-03-25 09:21:00,2026-03-25 09:39:00,7B,2026-03-25 09:39:00,2026-03-25 10:27:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,18.0,48.0,Outdoor
+58,1.0,2026-03-25 09:21:00,2026-03-25 09:42:00,,,,In-house,2026-03-14,Saturday,True,199,False,True,True,21.0,,No Table
+59,2.0,2026-03-25 09:22:00,2026-03-25 09:42:00,1A,2026-03-25 09:42:00,2026-03-25 11:03:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,20.0,81.0,Indoor
+60,1.0,2026-03-25 09:31:00,2026-03-25 09:48:00,7A,2026-03-25 09:48:00,2026-03-25 11:21:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,17.0,93.0,Outdoor
+61,2.0,2026-03-25 09:32:00,2026-03-25 09:54:00,4A,2026-03-25 09:54:00,2026-03-25 10:56:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,22.0,62.0,Indoor
+62,2.0,2026-03-25 09:36:00,2026-03-25 09:51:00,4B,2026-03-25 09:51:00,2026-03-25 11:23:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,15.0,92.0,Indoor
+63,2.0,2026-03-25 09:40:00,2026-03-25 09:52:00,5A,2026-03-25 09:52:00,2026-03-25 10:40:00,Walk-in,2026-03-14,Saturday,True,199,False,False,True,12.0,48.0,Indoor
+64,3.0,,,2B,2026-03-25 09:57:00,2026-03-25 11:28:00,Walk-in,2026-03-14,Saturday,True,199,True,False,False,,91.0,Indoor
+64,3.0,,,3A,2026-03-25 09:57:00,2026-03-25 11:28:00,Walk-in,2026-03-14,Saturday,True,199,True,False,False,,91.0,Indoor
+65,2.0,,,10A,2026-03-25 09:59:00,2026-03-25 10:45:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,46.0,Outdoor
+66,2.0,,,14,2026-03-25 10:00:00,2026-03-25 11:27:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,87.0,Outdoor
+67,2.0,,,6,2026-03-25 10:04:00,2026-03-25 11:25:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,81.0,Indoor
+68,2.0,,,7C,2026-03-25 10:05:00,2026-03-25 11:21:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,76.0,Outdoor
+69,1.0,,,8A,2026-03-25 10:11:00,2026-03-25 10:22:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,11.0,Outdoor
+70,2.0,,,13,2026-03-25 10:12:00,2026-03-25 11:00:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,48.0,Outdoor
+71,2.0,,,11,2026-03-25 10:16:00,2026-03-25 10:38:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,22.0,Outdoor
+72,1.0,,,5B,2026-03-25 10:14:00,2026-03-25 11:37:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,83.0,Indoor
+73,1.0,,,16,2026-03-25 10:19:00,2026-03-25 10:42:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,23.0,No Table
+74,1.0,,,8B,2026-03-25 10:23:00,2026-03-25 11:23:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,60.0,Outdoor
+75,2.0,,,8A,2026-03-25 10:25:00,2026-03-25 11:05:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,40.0,Outdoor
+76,2.0,,,8C,2026-03-25 10:26:00,2026-03-25 11:19:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,53.0,Outdoor
+77,2.0,,,7B,2026-03-25 10:30:00,2026-03-25 12:00:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,90.0,Outdoor
+78,3.0,,,1B,2026-03-25 10:41:00,2026-03-25 11:54:00,Walk-in,2026-03-14,Saturday,True,199,True,False,False,,73.0,Indoor
+78,3.0,,,2A,2026-03-25 10:41:00,2026-03-25 11:54:00,Walk-in,2026-03-14,Saturday,True,199,True,False,False,,73.0,Indoor
+79,1.0,,,16,2026-03-25 11:00:00,2026-03-25 11:29:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,29.0,No Table
+80,2.0,,,1A,2026-03-25 11:24:00,2026-03-25 12:25:00,In-house,2026-03-14,Saturday,True,199,False,False,False,,61.0,Indoor
+81,2.0,,,6,2026-03-25 11:45:00,2026-03-25 12:31:00,Walk-in,2026-03-14,Saturday,True,199,False,False,False,,46.0,Indoor
+1,2.0,,,10B,2026-03-25 06:50:00,2026-03-25 08:08:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,78.0,Outdoor
+2,1.0,,,1,2026-03-25 06:53:00,2026-03-25 07:50:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,57.0,Indoor
+3,1.0,,,7A,2026-03-25 06:57:00,2026-03-25 08:45:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,108.0,Outdoor
+4,3.0,,,3B,2026-03-25 07:02:00,2026-03-25 08:00:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,58.0,Indoor
+5,2.0,,,4A,2026-03-25 07:12:00,2026-03-25 08:12:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,60.0,Indoor
+6,2.0,,,5B,2026-03-25 07:13:00,2026-03-25 08:05:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,52.0,Indoor
+7,2.0,,,11A,2026-03-25 07:15:00,2026-03-25 10:00:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,165.0,Outdoor
+8,3.0,,,6,2026-03-25 07:35:00,2026-03-25 09:14:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,99.0,Indoor
+9,1.0,,,7B,2026-03-25 07:35:00,2026-03-25 08:00:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,25.0,Outdoor
+10,3.0,,,2,2026-03-25 07:49:00,2026-03-25 09:10:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,81.0,Indoor
+11,2.0,,,1A,2026-03-25 07:51:00,2026-03-25 09:27:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,96.0,Indoor
+12,1.0,,,16,2026-03-25 07:59:00,2026-03-25 09:35:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,96.0,No Table
+13,2.0,,,8B,2026-03-25 07:59:00,2026-03-25 08:27:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,28.0,Outdoor
+14,4.0,,,15,2026-03-25 08:00:00,2026-03-25 10:46:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,166.0,Outdoor
+15,2.0,,,1B,2026-03-25 08:02:00,2026-03-25 09:20:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,78.0,Indoor
+16,1.0,,,8C,2026-03-25 08:03:00,2026-03-25 09:22:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,79.0,Outdoor
+17,3.0,,,3B,2026-03-25 08:04:00,2026-03-25 09:24:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,80.0,Indoor
+18,4.0,,,13,2026-03-25 08:05:00,2026-03-25 09:50:00,In-house,2026-03-15,Sunday,True,199,True,False,False,,105.0,Outdoor
+18,4.0,,,14,2026-03-25 08:05:00,2026-03-25 09:50:00,In-house,2026-03-15,Sunday,True,199,True,False,False,,105.0,Outdoor
+19,2.0,,,4B,2026-03-25 08:10:00,2026-03-25 10:30:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,140.0,Indoor
+20,2.0,,,10A,2026-03-25 08:10:00,2026-03-25 09:54:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,104.0,Outdoor
+21,2.0,,,4A,2026-03-25 08:12:00,2026-03-25 11:05:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,173.0,Indoor
+22,2.0,,,9,2026-03-25 08:12:00,2026-03-25 09:50:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,98.0,Outdoor
+23,2.0,,,4A,2026-03-25 09:13:00,2026-03-25 09:42:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,29.0,Indoor
+24,2.0,,,10B,2026-03-25 08:14:00,2026-03-25 10:15:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,121.0,Outdoor
+25,2.0,,,12,2026-03-25 08:15:00,2026-03-25 10:07:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,112.0,Outdoor
+26,2.0,,,7C,2026-03-25 08:16:00,2026-03-25 09:33:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,77.0,Outdoor
+27,2.0,,,7B,2026-03-25 08:16:00,2026-03-25 09:12:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,56.0,Outdoor
+28,0.0,2026-03-25 08:16:00,2026-03-25 09:04:00,,,,In-house,2026-03-15,Sunday,True,199,False,True,True,48.0,,No Table
+29,2.0,2026-03-25 08:16:00,2026-03-25 09:05:00,11B,2026-03-25 09:05:00,2026-03-25 11:35:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,49.0,150.0,Outdoor
+30,2.0,2026-03-25 08:16:00,2026-03-25 08:29:00,8B,2026-03-25 08:29:00,2026-03-25 09:00:00,In-house,2026-03-15,Sunday,True,199,False,False,True,13.0,31.0,Outdoor
+31,1.0,2026-03-25 08:17:00,2026-03-25 08:45:00,7A,2026-03-25 08:45:00,2026-03-25 09:30:00,In-house,2026-03-15,Sunday,True,199,False,False,True,28.0,45.0,Outdoor
+32,3.0,2026-03-25 08:18:00,2026-03-25 09:10:00,2,2026-03-25 09:10:00,2026-03-25 10:33:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,52.0,83.0,Indoor
+33,3.0,2026-03-25 08:20:00,2026-03-25 09:13:00,3,2026-03-25 09:13:00,2026-03-25 10:20:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,53.0,67.0,Indoor
+34,2.0,2026-03-25 08:30:00,2026-03-25 09:15:00,7B,2026-03-25 09:15:00,2026-03-25 09:41:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,45.0,26.0,Outdoor
+35,4.0,2026-03-25 08:35:00,2026-03-25 09:16:00,6,2026-03-25 09:16:00,2026-03-25 10:03:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,41.0,47.0,Indoor
+36,4.0,2026-03-25 08:40:00,2026-03-25 09:27:00,4B,2026-03-25 09:27:00,2026-03-25 10:44:00,Walk-in,2026-03-15,Sunday,True,199,True,False,True,47.0,77.0,Indoor
+36,4.0,2026-03-25 08:40:00,2026-03-25 09:27:00,5A,2026-03-25 09:27:00,2026-03-25 10:44:00,Walk-in,2026-03-15,Sunday,True,199,True,False,True,47.0,77.0,Indoor
+37,2.0,2026-03-25 08:44:00,2026-03-25 09:20:00,,,,In-house,2026-03-15,Sunday,True,199,False,True,True,36.0,,No Table
+38,3.0,2026-03-25 08:46:00,2026-03-25 09:50:00,9,2026-03-25 09:50:00,2026-03-25 12:00:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,64.0,130.0,Outdoor
+39,1.0,2026-03-25 08:48:00,2026-03-25 09:00:00,8B,2026-03-25 09:00:00,2026-03-25 10:52:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,12.0,112.0,Outdoor
+40,0.0,2026-03-25 08:50:00,2026-03-25 09:20:00,,,,In-house,2026-03-15,Sunday,True,199,False,True,True,30.0,,No Table
+41,1.0,2026-03-25 08:53:00,2026-03-25 09:25:00,1B,2026-03-25 09:25:00,2026-03-25 10:01:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,32.0,36.0,Indoor
+42,1.0,2026-03-25 08:54:00,2026-03-25 09:25:00,1A,2026-03-25 09:25:00,2026-03-25 10:05:00,In-house,2026-03-15,Sunday,True,199,False,False,True,31.0,40.0,Indoor
+43,2.0,2026-03-25 08:57:00,2026-03-25 09:25:00,8C,2026-03-25 09:25:00,2026-03-25 11:41:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,28.0,136.0,Outdoor
+44,3.0,2026-03-25 08:58:00,2026-03-25 09:33:00,7A,2026-03-25 09:33:00,2026-03-25 10:44:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,35.0,71.0,Outdoor
+45,2.0,2026-03-25 08:16:00,2026-03-25 09:07:00,8A,2026-03-25 09:07:00,2026-03-25 09:47:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,51.0,40.0,Outdoor
+46,2.0,2026-03-25 09:08:00,2026-03-25 09:40:00,16,2026-03-25 09:40:00,2026-03-25 10:13:00,In-house,2026-03-15,Sunday,True,199,False,False,True,32.0,33.0,No Table
+47,3.0,2026-03-25 09:08:00,2026-03-25 10:05:00,6,2026-03-25 10:05:00,2026-03-25 12:00:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,57.0,115.0,Indoor
+48,2.0,2026-03-25 09:10:00,2026-03-25 09:17:00,,,,In-house,2026-03-15,Sunday,True,199,False,True,True,7.0,,No Table
+49,0.0,2026-03-25 09:10:00,2026-03-25 09:55:00,,,,Walk-in,2026-03-15,Sunday,True,199,False,True,True,45.0,,No Table
+50,5.0,2026-03-25 09:10:00,2026-03-25 09:55:00,4A,2026-03-25 09:55:00,2026-03-25 11:25:00,Walk-in,2026-03-15,Sunday,True,199,True,False,True,45.0,90.0,Indoor
+50,5.0,2026-03-25 09:10:00,2026-03-25 09:55:00,11B,2026-03-25 09:55:00,2026-03-25 11:25:00,Walk-in,2026-03-15,Sunday,True,199,True,False,True,45.0,90.0,Outdoor
+51,1.0,2026-03-25 09:17:00,2026-03-25 10:05:00,1A,2026-03-25 10:05:00,2026-03-25 11:14:00,In-house,2026-03-15,Sunday,True,199,False,False,True,48.0,69.0,Indoor
+52,3.0,2026-03-25 09:25:00,2026-03-25 10:09:00,12,2026-03-25 10:09:00,2026-03-25 11:20:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,44.0,71.0,Outdoor
+53,3.0,2026-03-25 09:25:00,2026-03-25 10:11:00,11A,2026-03-25 10:11:00,2026-03-25 11:35:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,46.0,84.0,Outdoor
+54,5.0,2026-03-25 09:33:00,2026-03-25 10:17:00,16,2026-03-25 10:17:00,2026-03-25 11:00:00,In-house,2026-03-15,Sunday,True,199,False,False,True,44.0,43.0,No Table
+55,4.0,2026-03-25 09:35:00,2026-03-25 10:30:00,,,,In-house,2026-03-15,Sunday,True,199,False,True,True,55.0,,No Table
+56,2.0,2026-03-25 09:36:00,2026-03-25 10:35:00,2,2026-03-25 10:35:00,2026-03-25 11:10:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,59.0,35.0,Indoor
+57,1.0,2026-03-25 09:37:00,2026-03-25 10:45:00,7A,2026-03-25 10:45:00,2026-03-25 11:15:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,68.0,30.0,Outdoor
+58,2.0,2026-03-25 09:37:00,2026-03-25 09:48:00,,,,Walk-in,2026-03-15,Sunday,True,199,False,True,True,11.0,,No Table
+59,2.0,2026-03-25 09:38:00,2026-03-25 10:45:00,4B,2026-03-25 10:45:00,2026-03-25 11:30:00,In-house,2026-03-15,Sunday,True,199,True,False,True,67.0,45.0,Indoor
+59,2.0,2026-03-25 09:38:00,2026-03-25 10:45:00,5A,2026-03-25 10:45:00,2026-03-25 11:30:00,In-house,2026-03-15,Sunday,True,199,True,False,True,67.0,45.0,Indoor
+60,0.0,2026-03-25 09:40:00,2026-03-25 10:48:00,,,,Walk-in,2026-03-15,Sunday,True,199,False,True,True,68.0,,No Table
+61,2.0,2026-03-25 09:42:00,2026-03-25 10:50:00,15A,2026-03-25 10:50:00,2026-03-25 11:55:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,68.0,65.0,Outdoor
+62,2.0,2026-03-25 09:45:00,2026-03-25 10:50:00,15B,2026-03-25 10:50:00,2026-03-25 11:26:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,65.0,36.0,Outdoor
+63,2.0,2026-03-25 09:46:00,2026-03-25 10:55:00,8B,2026-03-25 10:55:00,2026-03-25 12:07:00,In-house,2026-03-15,Sunday,True,199,False,False,True,69.0,72.0,Outdoor
+64,2.0,2026-03-25 09:47:00,2026-03-25 11:03:00,7C,2026-03-25 11:03:00,2026-03-25 11:43:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,76.0,40.0,Outdoor
+65,2.0,2026-03-25 09:57:00,2026-03-25 11:05:00,,,,Walk-in,2026-03-15,Sunday,True,199,False,True,True,68.0,,No Table
+66,4.0,2026-03-25 10:07:00,2026-03-25 11:05:00,3,2026-03-25 11:05:00,2026-03-25 12:25:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,58.0,80.0,Indoor
+67,2.0,2026-03-25 10:15:00,2026-03-25 11:06:00,10A,2026-03-25 10:06:00,2026-03-25 12:06:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,51.0,120.0,Outdoor
+68,2.0,2026-03-25 09:10:00,2026-03-25 10:30:00,5B,2026-03-25 10:30:00,2026-03-25 12:10:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,80.0,100.0,Indoor
+69,1.0,2026-03-25 10:23:00,2026-03-25 11:09:00,4A,2026-03-25 11:09:00,2026-03-25 12:20:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,46.0,71.0,Indoor
+70,1.0,2026-03-25 10:24:00,2026-03-25 11:09:00,8A,2026-03-25 11:09:00,2026-03-25 12:10:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,45.0,61.0,Outdoor
+71,1.0,2026-03-25 10:25:00,2026-03-25 11:15:00,,,,Walk-in,2026-03-15,Sunday,True,199,False,True,True,50.0,,No Table
+72,1.0,2026-03-25 10:40:00,2026-03-25 11:10:00,2B,2026-03-25 11:10:00,2026-03-25 11:50:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,30.0,40.0,Indoor
+73,2.0,2026-03-25 10:41:00,2026-03-25 11:12:00,16,2026-03-25 11:12:00,2026-03-25 11:43:00,Walk-in,2026-03-15,Sunday,True,199,False,False,True,31.0,31.0,No Table
+74,1.0,2026-03-25 10:53:00,2026-03-25 11:05:00,,,,Walk-in,2026-03-15,Sunday,True,199,False,True,True,12.0,,No Table
+75,3.0,2026-03-25 10:55:00,2026-03-25 11:40:00,13,2026-03-25 11:40:00,2026-03-25 12:30:00,In-house,2026-03-15,Sunday,True,199,True,False,True,45.0,50.0,Outdoor
+75,3.0,2026-03-25 10:55:00,2026-03-25 11:40:00,14,2026-03-25 11:40:00,2026-03-25 12:30:00,In-house,2026-03-15,Sunday,True,199,True,False,True,45.0,50.0,Outdoor
+76,2.0,2026-03-25 11:00:00,2026-03-25 11:14:00,2A,2026-03-25 11:14:00,2026-03-25 11:35:00,In-house,2026-03-15,Sunday,True,199,False,False,True,14.0,21.0,Indoor
+77,1.0,2026-03-25 11:14:00,2026-03-25 11:15:00,,,,In-house,2026-03-15,Sunday,True,199,False,True,True,1.0,,No Table
+78,0.0,2026-03-25 11:14:00,2026-03-25 11:20:00,,,,Walk-in,2026-03-15,Sunday,True,199,False,True,True,6.0,,No Table
+79,2.0,2026-03-25 11:15:00,2026-03-25 11:20:00,7A,2026-03-25 11:20:00,2026-03-25 11:55:00,In-house,2026-03-15,Sunday,True,199,False,False,True,5.0,35.0,Outdoor
+80,2.0,2026-03-25 11:15:00,2026-03-25 11:23:00,1B,2026-03-25 11:23:00,2026-03-25 12:20:00,In-house,2026-03-15,Sunday,True,199,False,False,True,8.0,57.0,Indoor
+81,2.0,,,12,2026-03-25 11:12:00,2026-03-25 12:30:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,78.0,Outdoor
+82,1.0,,,12,2026-03-25 11:25:00,2026-03-25 12:00:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,35.0,Outdoor
+83,1.0,2026-03-25 11:25:00,2026-03-25 11:27:00,15B,2026-03-25 11:27:00,2026-03-25 12:00:00,In-house,2026-03-15,Sunday,True,199,False,False,True,2.0,33.0,Outdoor
+84,1.0,,,4B,2026-03-25 11:30:00,2026-03-25 12:15:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,45.0,Indoor
+85,1.0,,,12,2026-03-25 11:40:00,2026-03-25 12:30:00,Walk-in,2026-03-15,Sunday,True,199,False,False,False,,50.0,Outdoor
+86,1.0,,,16,2026-03-25 11:45:00,2026-03-25 12:30:00,In-house,2026-03-15,Sunday,True,199,False,False,False,,45.0,No Table
+1,1.0,,,10A,2026-03-25 06:36:00,2026-03-25 09:18:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,162.0,Outdoor
+2,2.0,,,5,2026-03-25 06:37:00,2026-03-25 07:47:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,70.0,Indoor
+3,1.0,,,6B,2026-03-25 06:40:00,2026-03-25 09:00:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,140.0,Indoor
+4,1.0,,,16,2026-03-25 06:41:00,2026-03-25 07:21:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,40.0,No Table
+5,2.0,,,7A,2026-03-25 06:52:00,2026-03-25 07:54:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,62.0,Outdoor
+6,1.0,,,1A,2026-03-25 06:58:00,2026-03-25 07:54:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,56.0,Indoor
+7,1.0,,,1B,2026-03-25 07:00:00,2026-03-25 07:23:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,23.0,Indoor
+8,4.0,,,4,2026-03-25 07:00:00,2026-03-25 08:34:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,94.0,Indoor
+9,1.0,,,8A,2026-03-25 07:05:00,2026-03-25 07:30:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,25.0,Outdoor
+10,1.0,,,7B,2026-03-25 07:12:00,2026-03-25 07:36:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,24.0,Outdoor
+11,2.0,,,8B,2026-03-25 07:13:00,2026-03-25 07:56:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,43.0,Outdoor
+12,2.0,,,12,2026-03-25 07:15:00,2026-03-25 07:42:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,27.0,Outdoor
+13,2.0,,,4,2026-03-25 07:20:00,2026-03-25 07:56:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,36.0,Indoor
+14,1.0,,,11A,2026-03-25 07:30:00,2026-03-25 08:35:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,65.0,Outdoor
+15,1.0,,,3,2026-03-25 07:30:00,2026-03-25 07:41:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,11.0,Indoor
+16,2.0,,,1B,2026-03-25 07:36:00,2026-03-25 07:56:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,20.0,Indoor
+17,1.0,,,8A,2026-03-25 07:35:00,2026-03-25 08:02:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,27.0,Outdoor
+18,1.0,,,16,2026-03-25 07:37:00,2026-03-25 08:50:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,73.0,No Table
+19,2.0,,,6,2026-03-25 07:40:00,2026-03-25 11:20:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,220.0,Indoor
+20,1.0,,,7B,2026-03-25 07:40:00,2026-03-25 09:25:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,105.0,Outdoor
+21,1.0,,,7C,2026-03-25 07:41:00,2026-03-25 07:59:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,18.0,Outdoor
+22,1.0,,,12,2026-03-25 07:46:00,2026-03-25 07:56:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,10.0,Outdoor
+23,2.0,,,3,2026-03-25 07:48:00,2026-03-25 08:46:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,58.0,Indoor
+24,2.0,,,14,2026-03-25 07:51:00,2026-03-25 08:21:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,30.0,Outdoor
+25,6.0,,,4,2026-03-25 07:56:00,2026-03-25 08:56:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,60.0,Indoor
+26,2.0,,,1A,2026-03-25 08:05:00,2026-03-25 09:04:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,59.0,Indoor
+27,2.0,,,8B,2026-03-25 08:05:00,2026-03-25 08:52:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,47.0,Outdoor
+28,3.0,,,9,2026-03-25 08:06:00,2026-03-25 08:53:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,47.0,Outdoor
+29,1.0,,,8A,2026-03-25 08:16:00,2026-03-25 09:29:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,73.0,Outdoor
+30,2.0,,,12,2026-03-25 08:23:00,2026-03-25 09:07:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,44.0,Outdoor
+31,2.0,,,1B,2026-03-25 08:24:00,2026-03-25 09:49:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,85.0,Indoor
+32,1.0,,,2B,2026-03-25 08:33:00,2026-03-25 09:13:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,40.0,Indoor
+33,2.0,,,7A,2026-03-25 08:43:00,2026-03-25 09:21:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,38.0,Outdoor
+34,2.0,,,14,2026-03-25 08:41:00,2026-03-25 09:31:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,50.0,Outdoor
+35,1.0,,,8C,2026-03-25 08:43:00,2026-03-25 09:20:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,37.0,Outdoor
+36,2.0,,,11B,2026-03-25 08:50:00,2026-03-25 09:30:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,40.0,Outdoor
+37,1.0,,,15,2026-03-25 08:56:00,2026-03-25 09:12:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,16.0,Outdoor
+38,1.0,,,16,2026-03-25 09:05:00,2026-03-25 09:37:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,32.0,No Table
+39,2.0,,,4,2026-03-25 09:05:00,2026-03-25 11:15:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,130.0,Indoor
+40,2.0,,,8B,2026-03-25 09:10:00,2026-03-25 10:22:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,72.0,Outdoor
+41,2.0,,,1A,2026-03-25 09:14:00,2026-03-25 10:23:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,69.0,Indoor
+42,1.0,,,1B,2026-03-25 09:16:00,2026-03-25 10:46:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,90.0,Indoor
+43,3.0,,,11,2026-03-25 09:30:00,2026-03-25 10:06:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,36.0,Outdoor
+44,1.0,,,7A,2026-03-25 09:32:00,2026-03-25 09:53:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,21.0,Outdoor
+45,3.0,,,10,2026-03-25 09:35:00,2026-03-25 10:23:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,48.0,Outdoor
+46,1.0,,,8A,2026-03-25 08:36:00,2026-03-25 12:13:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,217.0,Outdoor
+47,2.0,,,2,2026-03-25 09:41:00,2026-03-25 10:06:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,25.0,Indoor
+48,2.0,,,16,2026-03-25 09:45:00,2026-03-25 10:18:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,33.0,No Table
+49,2.0,,,4,2026-03-25 09:50:00,2026-03-25 11:51:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,121.0,Indoor
+50,2.0,,,7A,2026-03-25 09:52:00,2026-03-25 11:00:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,68.0,Outdoor
+51,2.0,,,5B,2026-03-25 09:54:00,2026-03-25 10:54:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,60.0,Indoor
+52,1.0,,,5A,2026-03-25 08:54:00,2026-03-25 10:58:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,124.0,Indoor
+53,1.0,,,12,2026-03-25 10:09:00,2026-03-25 10:25:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,16.0,Outdoor
+54,1.0,,,3,2026-03-25 10:10:00,2026-03-25 11:24:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,74.0,Indoor
+55,2.0,,,9,2026-03-25 10:11:00,2026-03-25 10:43:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,32.0,Outdoor
+56,2.0,,,2,2026-03-25 10:20:00,2026-03-25 12:15:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,115.0,Indoor
+57,1.0,,,1A,2026-03-25 10:28:00,2026-03-25 11:08:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,40.0,Indoor
+58,3.0,,,7B,2026-03-25 10:35:00,2026-03-25 11:23:00,In-house,2026-03-17,Tuesday,False,159,True,False,False,,48.0,Outdoor
+58,3.0,,,7A,2026-03-25 10:35:00,2026-03-25 11:23:00,In-house,2026-03-17,Tuesday,False,159,True,False,False,,48.0,Outdoor
+59,2.0,,,10,2026-03-25 10:37:00,2026-03-25 11:09:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,32.0,Outdoor
+60,3.0,,,15,2026-03-25 10:39:00,2026-03-25 12:11:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,92.0,Outdoor
+61,2.0,,,14,2026-03-25 10:40:00,2026-03-25 11:24:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,44.0,Outdoor
+62,2.0,,,16,2026-03-25 10:44:00,2026-03-25 11:40:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,56.0,No Table
+63,1.0,,,8C,2026-03-25 10:50:00,2026-03-25 11:30:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,40.0,Outdoor
+64,2.0,,,5,2026-03-25 11:04:00,2026-03-25 12:02:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,58.0,Indoor
+65,1.0,,,6B,2026-03-25 11:05:00,2026-03-25 11:25:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,20.0,Indoor
+66,1.0,,,7A,2026-03-25 11:21:00,2026-03-25 11:39:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,18.0,Outdoor
+67,2.0,,,9,2026-03-25 11:24:00,2026-03-25 11:48:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,24.0,Outdoor
+68,1.0,,,1,2026-03-25 11:23:00,2026-03-25 12:02:00,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,39.0,Indoor
+69,1.0,,,7B,2026-03-25 11:43:00,2026-03-25 12:04:00,In-house,2026-03-17,Tuesday,False,159,False,False,False,,21.0,Outdoor
+70,,,,,,,Walk-in,2026-03-17,Tuesday,False,159,False,False,False,,,No Table
+1,1.0,,,4A,2026-03-25 06:26:00,2026-03-25 08:42:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,136.0,Indoor
+2,2.0,,,11,2026-03-25 06:44:00,2026-03-25 07:44:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,60.0,Outdoor
+3,1.0,,,7A,2026-03-25 06:58:00,2026-03-25 08:46:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,108.0,Outdoor
+4,2.0,,,16,2026-03-25 07:07:00,2026-03-25 07:53:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,46.0,No Table
+5,1.0,,,8A,2026-03-25 02:29:00,2026-03-25 07:50:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,321.0,Outdoor
+6,1.0,,,8C,2026-03-25 07:34:00,2026-03-25 07:47:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,13.0,Outdoor
+7,1.0,,,6,2026-03-25 07:35:00,2026-03-25 07:45:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,10.0,Indoor
+8,1.0,,,10B,2026-03-25 07:44:00,2026-03-25 07:59:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,15.0,Outdoor
+9,2.0,,,1,2026-03-25 07:45:00,2026-03-25 08:07:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,22.0,Indoor
+10,2.0,,,6,2026-03-25 07:46:00,2026-03-25 09:27:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,101.0,Indoor
+11,1.0,,,7B,2026-03-25 07:49:00,2026-03-25 08:13:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,24.0,Outdoor
+12,1.0,,,8A,2026-03-25 07:55:00,2026-03-25 09:21:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,86.0,Outdoor
+13,1.0,,,4B,2026-03-25 07:58:00,2026-03-25 08:59:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,61.0,Indoor
+14,2.0,,,16,2026-03-25 08:03:00,2026-03-25 08:35:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,32.0,No Table
+15,2.0,,,10B,2026-03-25 08:05:00,2026-03-25 08:50:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,45.0,Outdoor
+16,2.0,,,11A,2026-03-25 08:06:00,2026-03-25 08:36:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,30.0,Outdoor
+17,1.0,,,1A,2026-03-25 08:15:00,2026-03-25 09:00:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,45.0,Indoor
+18,1.0,,,1B,2026-03-25 08:16:00,2026-03-25 09:54:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,98.0,Indoor
+19,1.0,,,7B,2026-03-25 08:18:00,2026-03-25 09:37:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,79.0,Outdoor
+20,2.0,,,3,2026-03-25 08:25:00,2026-03-25 09:05:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,40.0,Indoor
+21,2.0,,,8B,2026-03-25 08:28:00,2026-03-25 09:06:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,38.0,Outdoor
+22,2.0,,,15,2026-03-25 08:29:00,2026-03-25 09:19:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,50.0,Outdoor
+23,4.0,,,2,2026-03-25 08:30:00,2026-03-25 09:10:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,40.0,Indoor
+24,1.0,,,16,2026-03-25 08:40:00,2026-03-25 09:29:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,49.0,No Table
+25,2.0,,,11B,2026-03-25 08:42:00,2026-03-25 09:35:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,53.0,Outdoor
+26,3.0,,,5,2026-03-25 08:43:00,2026-03-25 08:58:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,15.0,Indoor
+27,1.0,,,7B,2026-03-25 08:44:00,2026-03-25 09:13:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,29.0,Outdoor
+28,5.0,,,12,2026-03-25 08:47:00,2026-03-25 10:26:00,Walk-in,2026-03-18,Wednesday,False,159,True,False,False,,99.0,Outdoor
+28,5.0,,,13,2026-03-25 08:47:00,2026-03-25 10:26:00,Walk-in,2026-03-18,Wednesday,False,159,True,False,False,,99.0,Outdoor
+29,1.0,,,4A,2026-03-25 08:49:00,2026-03-25 09:25:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,36.0,Indoor
+30,1.0,,,7A,2026-03-25 08:49:00,2026-03-25 10:55:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,126.0,Outdoor
+31,1.0,,,14,2026-03-25 08:43:00,2026-03-25 09:35:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,52.0,Outdoor
+32,2.0,,,5B,2026-03-25 09:00:00,2026-03-25 10:00:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,60.0,Indoor
+33,1.0,,,8B,2026-03-25 09:08:00,2026-03-25 10:03:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,55.0,Outdoor
+34,2.0,,,1A,2026-03-25 09:11:00,2026-03-25 10:11:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,60.0,Indoor
+35,4.0,,,9,2026-03-25 09:12:00,2026-03-25 10:08:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,56.0,Outdoor
+36,2.0,,,3,2026-03-25 09:13:00,2026-03-25 10:05:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,52.0,Indoor
+37,2.0,,,4B,2026-03-25 09:20:00,2026-03-25 09:54:00,Walk-in,2026-03-18,Wednesday,False,159,True,False,False,,34.0,Indoor
+37,2.0,,,5A,2026-03-25 09:20:00,2026-03-25 09:54:00,Walk-in,2026-03-18,Wednesday,False,159,True,False,False,,34.0,Indoor
+38,2.0,,,15,2026-03-25 09:22:00,2026-03-25 10:15:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,53.0,Outdoor
+39,1.0,,,4A,2026-03-25 09:37:00,2026-03-25 10:46:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,69.0,Indoor
+40,1.0,,,6B,2026-03-25 09:47:00,2026-03-25 12:10:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,143.0,Indoor
+41,1.0,,,6A,2026-03-25 09:48:00,2026-03-25 10:45:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,57.0,Indoor
+42,4.0,,,2,2026-03-25 09:49:00,2026-03-25 11:41:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,112.0,Indoor
+43,2.0,,,16,2026-03-25 09:56:00,2026-03-25 10:45:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,49.0,No Table
+44,2.0,,,7B,2026-03-25 09:58:00,2026-03-25 10:17:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,19.0,Outdoor
+45,2.0,,,14,2026-03-25 09:59:00,2026-03-25 10:28:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,29.0,Outdoor
+46,2.0,,,1B,2026-03-25 10:03:00,2026-03-25 10:49:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,46.0,Indoor
+47,3.0,,,4B,2026-03-25 10:05:00,2026-03-25 11:02:00,In-house,2026-03-18,Wednesday,False,159,True,False,False,,57.0,Indoor
+47,3.0,,,5A,2026-03-25 10:05:00,2026-03-25 11:02:00,In-house,2026-03-18,Wednesday,False,159,True,False,False,,57.0,Indoor
+48,2.0,,,11A,2026-03-25 10:10:00,2026-03-25 10:52:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,42.0,Outdoor
+49,2.0,,,8A,2026-03-25 10:16:00,2026-03-25 11:02:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,46.0,Outdoor
+50,1.0,,,1A,2026-03-25 10:19:00,2026-03-25 11:30:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,71.0,Indoor
+51,4.0,,,9,2026-03-25 10:28:00,2026-03-25 12:15:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,107.0,Outdoor
+52,1.0,,,14,2026-03-25 10:30:00,2026-03-25 11:28:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,58.0,Outdoor
+53,1.0,,,8C,2026-03-25 10:30:00,2026-03-25 11:13:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,43.0,Outdoor
+54,2.0,,,7B,2026-03-25 10:36:00,2026-03-25 11:50:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,74.0,Outdoor
+55,1.0,,,10B,2026-03-25 10:38:00,2026-03-25 11:58:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,80.0,Outdoor
+56,2.0,,,15,2026-03-25 10:34:00,2026-03-25 11:24:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,50.0,Outdoor
+57,2.0,,,3,2026-03-25 10:35:00,2026-03-25 11:12:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,37.0,Indoor
+58,1.0,,,1B,2026-03-25 10:39:00,2026-03-25 13:30:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,171.0,Indoor
+59,3.0,,,12,2026-03-25 10:41:00,2026-03-25 11:40:00,Walk-in,2026-03-18,Wednesday,False,159,True,False,False,,59.0,Outdoor
+59,3.0,,,13,2026-03-25 10:41:00,2026-03-25 11:40:00,Walk-in,2026-03-18,Wednesday,False,159,True,False,False,,59.0,Outdoor
+60,2.0,,,16,2026-03-25 10:54:00,2026-03-25 11:58:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,64.0,No Table
+61,1.0,,,4A,2026-03-25 10:56:00,2026-03-25 11:39:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,43.0,Indoor
+62,1.0,,,5B,2026-03-25 11:28:00,2026-03-25 11:53:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,25.0,Indoor
+63,2.0,,,7A,2026-03-25 11:00:00,2026-03-25 11:59:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,59.0,Outdoor
+64,1.0,,,8A,2026-03-25 11:08:00,2026-03-25 11:44:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,36.0,Outdoor
+65,3.0,,,11A,2026-03-25 11:10:00,2026-03-25 12:14:00,In-house,2026-03-18,Wednesday,False,159,True,False,False,,64.0,Outdoor
+65,3.0,,,11B,2026-03-25 11:10:00,2026-03-25 12:14:00,In-house,2026-03-18,Wednesday,False,159,True,False,False,,64.0,Outdoor
+66,2.0,,,15,2026-03-25 11:28:00,2026-03-25 11:51:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,23.0,Outdoor
+67,1.0,,,7C,2026-03-25 11:29:00,2026-03-25 12:14:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,45.0,Outdoor
+68,1.0,,,4,2026-03-25 11:39:00,2026-03-25 13:30:00,Walk-in,2026-03-18,Wednesday,False,159,False,False,False,,111.0,Indoor
+69,1.0,,,8B,2026-03-25 11:40:00,2026-03-25 11:54:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,14.0,Outdoor
+70,1.0,,,5A,2026-03-25 11:43:00,2026-03-25 12:20:00,In-house,2026-03-18,Wednesday,False,159,False,False,False,,37.0,Indoor
