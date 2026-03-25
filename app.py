@@ -762,24 +762,27 @@ elif page == "task2":
         st.plotly_chart(fig5, use_container_width=True)
 
     with c3b:
-        # กราฟแท่งแสดง Turnover ภายในโซน Indoor พิสูจน์ว่าโต๊ะเกิน Capacity
-        indoor_traffic = (df_tables[df_tables['meal_min'].notna() & (df_tables['zone'] == 'Indoor')]
-                          .groupby(['hour', 'Guest_type'])['service_no.'].nunique()
-                          .unstack('Guest_type', fill_value=0).reset_index())
-        for gt in ['In-house', 'Walk-in']: 
-            if gt not in indoor_traffic.columns: indoor_traffic[gt] = 0
+        # กราฟแสดงปริมาณการใช้โต๊ะโซน Indoor พิสูจน์ว่าโต๊ะเต็มความจุ
+        indoor_by_hour = (df_tables[df_tables['meal_min'].notna() & (df_tables['zone'] == 'Indoor')]
+                          .groupby('hour')['table_no.'].nunique().reset_index())
+        indoor_by_hour.columns = ['hour', 'tables_used']
+        indoor_by_hour['capacity_pct'] = (indoor_by_hour['tables_used'] / 12 * 100).round(0)
 
         fig6 = go.Figure()
-        fig6.add_trace(go.Bar(name='Walk-in', x=indoor_traffic['hour'], y=indoor_traffic['Walk-in'], marker_color=ORANGE, opacity=0.8, text=[str(int(v)) if v > 0 else "" for v in indoor_traffic['Walk-in']], textposition='inside', textfont=dict(color='white'), hoverinfo='none'))
-        fig6.add_trace(go.Bar(name='In-house', x=indoor_traffic['hour'], y=indoor_traffic['In-house'], marker_color=BLUE, opacity=0.8, text=[str(int(v)) if v > 0 else "" for v in indoor_traffic['In-house']], textposition='inside', textfont=dict(color='white'), hoverinfo='none'))
+        fig6.add_trace(go.Bar(x=indoor_by_hour['hour'], y=indoor_by_hour['tables_used'],
+                              marker_color=[RED if v >= 12 else ORANGE if v >= 10 else BLUE
+                                            for v in indoor_by_hour['tables_used']],
+                              width=0.6,
+                              text=[f"{v}/12" for v in indoor_by_hour['tables_used']],
+                              textposition='outside',
+                              textfont=dict(color='#1e293b', size=11, family='DM Mono'),
+                              hoverinfo='none')) 
+        fig6.add_hline(y=12, line_dash='dash', line_color=RED, line_width=1.5)
         
-        fig6.add_hline(y=12, line_dash='dash', line_color='#1e293b', line_width=2, annotation_text="Limit (12 Tables)", annotation_position="top left")
-        
-        total_v = indoor_traffic['In-house'] + indoor_traffic['Walk-in']
-        fig6.add_trace(go.Scatter(x=indoor_traffic['hour'], y=total_v, mode='text', text=total_v, textposition='top center', textfont=dict(family='DM Mono', size=12, color='#1e293b'), showlegend=False, hoverinfo='none'))
-
-        fig6.update_layout(**BASE, title="Indoor Occupancy Stress - Walk-ins blocking In-house", barmode='stack', xaxis_title="Time (hour)", yaxis_title="Groups Served", xaxis=ax(tickmode='linear', dtick=1), yaxis=ax(range=[0, 20]), showlegend=True)
-        fig6.update_layout(legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1))
+        fig6.update_layout(**BASE, title="Indoor Zone Occupancy by Hour - At Capacity All Morning",
+                           xaxis_title="Time (hour)", yaxis_title="Tables in Use",
+                           xaxis=ax(tickmode='linear', dtick=1),
+                           yaxis=ax(range=[0, 20]), showlegend=False)
         st.plotly_chart(fig6, use_container_width=True)
 
     # กราฟแสดงสัดส่วน Guest Type ในแต่ละ Zone
